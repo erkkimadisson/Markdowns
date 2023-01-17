@@ -44,15 +44,15 @@
 
 ---
 ### Binary numeral system
-2^n^ System
+2<sup>n</sup> System
 
-| 2^7^ | 2^6^ | 2^5^ | 2^4^ | 2^3^ | 2^2^ | 2^1^ | 2^0^ |
+| 2<sup>7</sup> | 2<sup>6</sup> | 2<sup>5</sup> | 2<sup>4</sup> | 2<sup>3</sup> | 2<sup>2</sup> | 2<sup>1</sup> | 2<sup>0</sup> |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 128  | 64   | 32   | 16   | 8    | 4    | 2    | 1    |
 
 #### Example converison base-10 -> binary 8-bit (base-2)
 
-Binary = 0000 1010b
+Binary = 0000 1010<sub>b</sub></br>
 128\*0+64\*0+32\*0+16\*0+8\*1+4\*0+2\*1+1\*0 = 8+2 = 10
 Decimal (base-10) = 10 
 
